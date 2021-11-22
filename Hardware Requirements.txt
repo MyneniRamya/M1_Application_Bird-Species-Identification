@@ -1,0 +1,4 @@
+. Processor: Pentium IV or higher
+. RAM: 256 MB
+. Space on Hard Disk: minimum 512MB
+

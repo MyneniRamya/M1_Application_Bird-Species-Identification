@@ -1,0 +1,5 @@
+.The performance of a device is essentially estimated in terms of efficiency, effectiveness and speed.
+       Short response time for given piece of work.
+       High throughput (rate of processing work)
+      2345 Short data transmission time. Response Time:
+Response time is the time a system or functional unit takes to react to a given input.
